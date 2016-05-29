@@ -13,7 +13,7 @@ body {overflow:hidden; cursor:crosshair;
 }
 * {margin:0; padding:0;}
 #main {width:100vw; background:url(../images/space.jpg) repeat; height:100vh; position:relative;}
-#leftbox {width:100px; height:800px; background:url(../images/leftbg.jpg) repeat; position:absolute; right:0; border-left:5px solid rgba(41,41,41,0.81);}
+#leftbox {width:100px; height:800vh; background:url(../images/leftbg.jpg) repeat; position:absolute; right:0; border-left:5px solid rgba(41,41,41,0.81);}
 #leftbox:hover {cursor:url(../images/shippp.png) 20 20, pointer;}
 .ball { width:50px;position:absolute; top:0;  opacity:0.7}
 .ball img{}
