@@ -1,4 +1,10 @@
-// JavaScript Document
+/* 
+Galaxy Defender - Game Ver 1.0 
+Written by Yuri Blecher 2016 
+*/
+
+
+
 //Shooting
     $("#leftbox").click(function(e){
 $("#leftbox:hover").addClass("newcurs");
